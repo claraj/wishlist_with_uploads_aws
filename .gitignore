@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+db.sqlite3
+venv
+media
+.vscode
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+www
